@@ -3,7 +3,7 @@ Overview
 This project performs Text Classification on the Consumer Complaint Database published by the U.S. Consumer Financial Protection Bureau (CFPB).
 It categorizes consumer complaints into four main product-related categories using Machine Learning and Deep Learning models.
 
-🎯 Objective
+ Objective
 
 To automatically classify customer complaints into the following categories based on their textual description:
 
@@ -12,7 +12,7 @@ Label	Category
 1	Debt collection
 2	Consumer loan
 3	Mortgage
-🧰 Technologies Used
+ Technologies Used
 
 Language: Python 3
 
@@ -38,7 +38,7 @@ Model Persistence: joblib
 
 Pretrained Transformers (optional): transformers, datasets
 
-⚙️ Setup & Prerequisites
+ Setup & Prerequisites
 1. Clone the Repository
 git clone https://github.com/your-username/consumer-complaint-text-classification.git
 cd consumer-complaint-text-classification
@@ -61,7 +61,7 @@ Alternatively, you can download it directly in your Colab/Notebook:
 import pandas as pd
 df = pd.read_csv('complaints.csv', nrows=100000, low_memory=False)
 
-🧩 Steps & Methodology
+Steps & Methodology
 1. Data Loading & Inspection
 
 Load 100,000 rows for manageable analysis.
@@ -138,7 +138,7 @@ X_tfidf = tfidf.fit_transform(df_balanced['text'])
 from sklearn.model_selection import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(X_new, y, test_size=0.2, stratify=y, random_state=42)
 
-🧠 Models Implemented
+ Models Implemented
 1. Logistic Regression
 from sklearn.linear_model import LogisticRegression
 lr = LogisticRegression(max_iter=1000)
@@ -170,7 +170,7 @@ model = FFNN(input_dim=1000, hidden_dim=128, num_classes=4)
 
 Trained for 5 epochs using CrossEntropyLoss and Adam optimizer.
 
-📊 Evaluation Metrics
+ Evaluation Metrics
 
 Accuracy
 
@@ -187,16 +187,16 @@ Example:
 from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
 print(classification_report(y_test, y_pred_lr))
 
-🧾 Results Summary
+ Results Summary
 Model	Accuracy	Precision	Recall	F1-score
 Logistic Regression	0.9709	0.9709	0.9709	0.9702
 Multinomial NB	0.9566	0.9569	0.9566	0.9566
 Linear SVM	0.9712	0.9709	0.9712	0.9705
 Feedforward Neural Network (FFNN)	0.9725	0.9723	0.9725	0.9719
 
-🟢 Best Performing Model: FFNN (Feedforward Neural Network)
+ Best Performing Model: FFNN (Feedforward Neural Network)
 
-📈 Visualizations
+ Visualizations
 
 Complaint distribution by product
 
@@ -242,9 +242,6 @@ Add topic modeling for unsupervised complaint discovery.
     └── ffnn_model.pt
 
 
-🧑‍💻 Author
+ Author
 
 Anandakrishnan K V
-📧 [your-email@example.com
-]
-💼 Data Science & AI Enthusiast
