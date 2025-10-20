@@ -242,6 +242,18 @@ Add topic modeling for unsupervised complaint discovery.
     └── ffnn_model.pt
 
 
- Author
+ Author<img width="1920" height="1080" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/07629df1-f726-49ab-85a9-79f314bf96cf" />
+<img width="1920" height="1080" alt="Screenshot (221)" src="https://github.com/user-attachments/assets/b3050cc1-9cbc-40a9-a003-0ab0a2aa36bc" />
+<img width="1920" height="1080" alt="Screenshot (210)" src="https://github.com/user-attachments/assets/750d6c97-c901-4df8-a1ec-670f8b335387" />
+<img width="1920" height="1080" alt="Screenshot (211)" src="https://github.com/user-attachments/assets/da50c550-31f4-4ef6-ae28-6d2ea4abd26d" />
+<img width="1920" height="1080" alt="Screenshot (212)" src="https://github.com/user-attachments/assets/4e01a6c9-7e16-4497-9eaa-3c1b8ab5efc8" />
+<img width="1920" height="1080" alt="Screenshot (213)" src="https://github.com/user-attachments/assets/4fb3ff03-c5de-496a-9d50-d915bc45aa2a" />
+<img width="1920" height="1080" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/ff9e37bf-068b-4227-857c-c34602d3e81e" />
+<img width="1920" height="1080" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/f7e5aace-1b19-4bad-93a2-90f19f0c62b5" />
+<img width="1920" height="1080" alt="Screenshot (216)" src="https://github.com/user-attachments/assets/828a94c5-9e1c-4088-8bd0-aac9a5dbd412" />
+<img width="1920" height="1080" alt="Screenshot (217)" src="https://github.com/user-attachments/assets/e08fbf02-b183-4b69-b7a2-1c82bfa58449" />
+<img width="1920" height="1080" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/9e0415ed-39bd-4cbe-8dfb-9b59dd1100ff" />
+<img width="1920" height="1080" alt="Screenshot (219)" src="https://github.com/user-attachments/assets/8d7bcc5f-90b9-4ed1-8f90-2a520a684a87" />
+
 
 Anandakrishnan K V
