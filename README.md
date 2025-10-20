@@ -673,7 +673,8 @@ categories = {0: 'Credit Reporting', 1: 'Debt Collection',
 print(f"Category: {categories[prediction[0]]}")
 ```
 
----
+
+
 
 ## 🐛 Troubleshooting
 
@@ -740,6 +741,15 @@ train_loader = DataLoader(train_dataset, batch_size=32)  # Instead of 64
 
 
 
-
+---<img width="1920" height="1080" alt="Screenshot (221)" src="https://github.com/user-attachments/assets/3066c372-5fe6-47ef-a0ac-de80b57849c1" />
+<img width="1920" height="1080" alt="Screenshot (210)" src="https://github.com/user-attachments/assets/7e4ea2f5-2a85-43b4-96cf-dbee52d6dc4e" />
+<img width="1920" height="1080" alt="Screenshot (211)" src="https://github.com/user-attachments/assets/19046255-4045-414b-a73d-7050b3dcf211" />
+<img width="1920" height="1080" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/a6f4366b-a0e7-41d8-ab6e-9bc5ed0ddcc5" />
+<img width="1920" height="1080" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/c593eaf1-b263-47e4-95b5-bbb47e19c8ee" />
+<img width="1920" height="1080" alt="Screenshot (216)" src="https://github.com/user-attachments/assets/728b26d6-5515-4a20-ba97-474dd6aeb8d7" />
+<img width="1920" height="1080" alt="Screenshot (217)" src="https://github.com/user-attachments/assets/85c6c849-8e7d-4b37-b9d5-3c492ebd3f36" />
+<img width="1920" height="1080" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/7cefdb2b-3bdc-493b-9dd8-9a8e47f7f239" />
+<img width="1920" height="1080" alt="Screenshot (219)" src="https://github.com/user-attachments/assets/bd92b02b-efac-42db-a5dd-d66190b4b6cc" />
+<img width="1920" height="1080" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/ac521363-1d7a-4b40-8972-471d9fd4c1b1" />
 
 
